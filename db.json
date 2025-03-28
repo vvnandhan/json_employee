@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "first_name": "John",
+      "last_name": "Doe",
+      "department": "HR",
+      "salary": 50000
+    },
+    {
+      "id": "2",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "department": "Finance",
+      "salary": 60000
+    },
+    {
+      "id": "9ce2",
+      "first_name": "nandhu",
+      "last_name": "b",
+      "department": "IT",
+      "salary": 88324
+    }
+  ]
+}
